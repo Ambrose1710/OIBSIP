@@ -1,1 +1,1 @@
-Hi there, this repository contains my beginner projects for Oasis python programming internship. 
+Hi there, this repository contains my projects for Oasis python programming internship. 
